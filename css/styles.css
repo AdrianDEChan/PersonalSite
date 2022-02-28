@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  color:#40514E;
+  text-align: center;
+}
+
+.bottomCloud {
+  position: absolute;
+}
+
+.bottom-container {
+  height: 10rem;
+  margin-top: 5%;
+  background-color: #E5E3C9;
+}
+.github
+{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+
+}
+hr
+{
+  border: dotted 5px;
+  width:10%;
+  border-bottom: none;
+  margin :5% auto 5% auto;
+}
+h1 {
+  color: #D29D2B;
+  margin: 5% auto 0 auto;
+  line-height: 2;
+  font-size: 5.62rem;
+  font-family: Ink Free, sans-serif;
+}
+
+h2 {
+  color: #D29D2B;
+  font-size: 2.5rem;
+
+}
+
+.middle-container {
+  margin-top: 5%;
+}
+
+.myselfpng {
+  width: 15%;
+}
+
+.pro {
+  background-color: yellow;
+}
+
+.p1
+{
+  font-size: 2rem;
+margin: auto;
+  width :30%;
+}
+.profile {
+
+}
+
+.Projects {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.top-container {
+  width :100%;
+  background-color: #E5E3C9;
+}
+.resume
+{
+  float: left;
+  margin-right: 30px;
+}
+.skill-row
+{
+  width :50%;
+  margin: 10% auto 10% auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.topCloud {
+  position: relative;
+  margin-top: 4%;
+  margin-left: 30%;
+}
+.webProject
+{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
